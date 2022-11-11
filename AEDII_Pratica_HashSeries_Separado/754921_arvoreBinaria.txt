@@ -1,0 +1,1 @@
+Martículas: 754921, 712376, 748873, 756849 	Tempo de execução: 1226 milissegundos	Comparações: 50

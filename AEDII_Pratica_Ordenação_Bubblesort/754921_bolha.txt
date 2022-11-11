@@ -1,0 +1,1 @@
+Martícula: 754921 	Tempo de execução: 40169 milissegundos	Comparações: 648	Movimentações: 341
